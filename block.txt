@@ -1,0 +1,7 @@
+cnn.com
+bbc.com
+news.google.com
+wsj.com
+bloomberg.com
+foxnews.com
+techmeme.com
